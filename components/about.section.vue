@@ -86,7 +86,7 @@ onMounted(() => {
   <section class="about">
     <div class="container-about">
       <div class="profile-image-container">
-        <NuxtImg src="/profile.jpg" alt="My Profile" class="profile-image" />
+        <NuxtImg src="/profile.png" alt="My Profile" class="profile-image" />
       </div>
       <div class="text-about-container">
         <h1>Who am i ?!</h1>
