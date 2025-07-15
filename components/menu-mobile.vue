@@ -212,7 +212,7 @@ function movePath(e, to) {
           </li>
         </ul>
         <div class="foto-profile">
-          <NuxtImg src="/profile.jpg" alt="My Profile" class="profile-image" />
+          <NuxtImg src="/profile.png" alt="My Profile" class="profile-image" />
         </div>
       </div>
     </section>
