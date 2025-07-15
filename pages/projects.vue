@@ -15,8 +15,8 @@ const projects = [
   },
   {
     name: "Claveto",
-    live: "https://nike-gsap-balss.vercel.app/",
-    github: "https://github.com/Ibaliqbal/nike-gsap",
+    live: "",
+    github: "https://github.com/hik4m",
     techstack: ["next.js", "gsap", "lenis"],
     image: "/nike-landing-page.png",
     description:
