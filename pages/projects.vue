@@ -18,7 +18,7 @@ const projects = [
     live: "",
     github: "https://github.com/hik4m",
     techstack: ["next.js", "gsap", "lenis"],
-    image: "/nike-landing-page.png",
+    image: "/nike-landing-page.jpg",
     description:
       "Claveto is a dedicated website designed specifically for 12th-grade students, serving as a central hub for all their academic needs. It offers a streamlined platform to access essential learning resources, class announcements, assignment details, and collaborative tools. Claveto aims to simplify the final year of high school by providing students with a clear, organized, and easily accessible resource to help them excel in their studies and prepare for their next steps.",
   },
