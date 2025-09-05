@@ -4,7 +4,7 @@ import gsap from "gsap";
 const projects = [
   {
     name: "Chatbot Alkam AI",
-    live: "https://whatsapp.me/6285784706902?text=.allmenu",
+    live: "https://wa.me/6285784706902?text=.allmenu",
     github: "https://github.com/hik4m",
     techstack: [
       "javascript"
